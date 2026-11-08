@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/profile/hero-dark.svg#gh-dark-mode-only" width="100%" alt="iqhater — software and sound" />
+  <img src="./assets/profile/hero-light.svg#gh-light-mode-only" width="100%" alt="iqhater — software and sound" />
+</p>
 
-<!--
-**iqhater/iqhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/profile/areas-dark.svg#gh-dark-mode-only" width="100%" alt="Systems, desktop software and sound" />
+  <img src="./assets/profile/areas-light.svg#gh-light-mode-only" width="100%" alt="Systems, desktop software and sound" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/iqhater/wave-player">
+    <img src="./assets/profile/wave-dark.svg#gh-dark-mode-only" width="32.5%" alt="Wave Player — Rust desktop audio" />
+    <img src="./assets/profile/wave-light.svg#gh-light-mode-only" width="32.5%" alt="Wave Player — Rust desktop audio" />
+  </a>
+  <a href="https://github.com/iqhater/pkg">
+    <img src="./assets/profile/pkg-dark.svg#gh-dark-mode-only" width="32.5%" alt="iqhater pkg — Go toolkit" />
+    <img src="./assets/profile/pkg-light.svg#gh-light-mode-only" width="32.5%" alt="iqhater pkg — Go toolkit" />
+  </a>
+  <a href="https://github.com/iqhater/clean-arch-basic-example">
+    <img src="./assets/profile/arch-dark.svg#gh-dark-mode-only" width="32.5%" alt="Clean Architecture example in Go" />
+    <img src="./assets/profile/arch-light.svg#gh-light-mode-only" width="32.5%" alt="Clean Architecture example in Go" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>GO & RUST&nbsp;·&nbsp; DESKTOP SOFTWARE &nbsp;·&nbsp; AUDIO TOOLS &nbsp;·&nbsp; MUSIC PRODUCTION</sub>
+</p>
