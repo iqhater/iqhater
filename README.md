@@ -1,25 +1,90 @@
 <p align="center">
-  <img src="./assets/profile/hero-dark.svg#gh-dark-mode-only" width="100%" alt="iqhater — software and sound" />
-  <img src="./assets/profile/hero-light.svg#gh-light-mode-only" width="100%" alt="iqhater — software and sound" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/profile/hero-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/profile/hero-light.svg"
+    />
+    <img
+      src="./assets/profile/hero-light.svg"
+      width="100%"
+      alt="iqhater — Between logic and creativity"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="./assets/profile/areas-dark.svg#gh-dark-mode-only" width="100%" alt="Systems, desktop software and sound" />
-  <img src="./assets/profile/areas-light.svg#gh-light-mode-only" width="100%" alt="Systems, desktop software and sound" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/profile/areas-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/profile/areas-light.svg"
+    />
+    <img
+      src="./assets/profile/areas-light.svg"
+      width="100%"
+      alt="Systems, desktop software and sound"
+    />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/iqhater/wave-player">
-    <img src="./assets/profile/wave-dark.svg#gh-dark-mode-only" width="32.5%" alt="Wave Player — Rust desktop audio" />
-    <img src="./assets/profile/wave-light.svg#gh-light-mode-only" width="32.5%" alt="Wave Player — Rust desktop audio" />
+    <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/profile/wave-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/profile/wave-light.svg"
+    />
+    <img
+      src="./assets/profile/wave-light.svg"
+      width="32.5%"
+      alt="Wave Player"
+    />
+  </picture>
   </a>
   <a href="https://github.com/iqhater/pkg">
-    <img src="./assets/profile/pkg-dark.svg#gh-dark-mode-only" width="32.5%" alt="iqhater pkg — Go toolkit" />
-    <img src="./assets/profile/pkg-light.svg#gh-light-mode-only" width="32.5%" alt="iqhater pkg — Go toolkit" />
+    <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/profile/pkg-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/profile/pkg-light.svg"
+    />
+    <img
+      src="./assets/profile/pkg-light.svg"
+      width="32.5%"
+      alt="iqhater pkg — Go toolkit"
+    />
+  </picture>
   </a>
   <a href="https://github.com/iqhater/clean-arch-basic-example">
-    <img src="./assets/profile/arch-dark.svg#gh-dark-mode-only" width="32.5%" alt="Clean Architecture example in Go" />
-    <img src="./assets/profile/arch-light.svg#gh-light-mode-only" width="32.5%" alt="Clean Architecture example in Go" />
+    <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/profile/arch-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/profile/arch-light.svg"
+    />
+    <img
+      src="./assets/profile/arch-light.svg"
+      width="32.5%"
+      alt="Clean Architecture example in Go"
+    />
+  </picture>
   </a>
 </p>
 
