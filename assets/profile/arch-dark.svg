@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="172" viewBox="0 0 320 172" role="img" aria-label="GitHub profile graphic">
+ <defs></defs><rect width="320" height="172" rx="22" fill="#17191F"/>
+ <rect x="1" y="1" width="318" height="170" rx="14" fill="#1D2028" stroke="#343743"/>
+ <text x="22" y="27" fill="#9B9EAA" font-size="9" letter-spacing="1.8" font-family="Inter,Arial,sans-serif">03  /  GO • ARCHITECTURE</text>
+ <g transform="translate(27.5 0)"><g fill="none" stroke="#AAA7DB" stroke-width="1.7"><circle cx="105" cy="76" r="28"/><circle cx="105" cy="76" r="17"/><circle cx="105" cy="76" r="5" fill="#AAA7DB"/><path d="M105 48V59M129 76H116M105 104V93M81 76H94"/><path d="M146 76H184" stroke-dasharray="3 5"/></g></g>
+ <path d="M22 112H296" stroke="#343743"/>
+ <text x="22" y="138" fill="#ECECF0" font-size="16" font-weight="600" font-family="Inter,Arial,sans-serif">Clean Arch Example</text>
+ <text x="22" y="156" fill="#9B9EAA" font-size="8.4" letter-spacing="1.15" font-family="Inter,Arial,sans-serif">DOMAIN  /  USE CASES  /  ADAPTERS</text>
+ </svg>
